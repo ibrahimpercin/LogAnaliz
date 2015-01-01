@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<!-- 
+  Visual Studio global web project settings.
+-->
+<VisualWebDeveloper>
+
+  <comReferences>
+    <reference Name="interop.msutil" ID="{A7E75D86-41CD-4B6E-B4BD-CC2ED34B3FB0}\1.0\0"/>
+  </comReferences>
+</VisualWebDeveloper>
